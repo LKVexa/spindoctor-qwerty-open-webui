@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+*.log
+e2e_results.json
+engine/examples/theory/*.pdf
+tests/*_results.json
